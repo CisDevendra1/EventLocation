@@ -1,0 +1,10 @@
+1.Profile->Interest->Edit
+2.Profile->Personal Info->Edit
+3.Photos->Public Photo and Private Photo add functionality not working
+4.Chats->Click on friends chat we can not show friends chat history.
+5.Swipe functionality not working on profile image.
+Hamburger Menu
+6.People Nearby->When click on people image then we can not go to people profile.
+7.3DCity-> Image animation not working.
+8.Encounters->A.)Image slider functionality not working
+9.Profile Visitore->then click on visitors-> Chat functionality not working
